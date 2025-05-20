@@ -114,7 +114,7 @@ android {
     }
 
     composeOptions {
-        kotlinCompilerExtensionVersion = "1.3.21"
+        kotlinCompilerExtensionVersion = "1.8.20"
     }
 
     kotlinOptions {
